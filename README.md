@@ -36,4 +36,4 @@ Users can input a misspelled word, and the app will suggest the most likely corr
     The app will return possible corrected words ranked by priority.
 
 Example:
-[!Demo](assets/word-correction.gif)
+![Demo](assets/word-correction.gif)
